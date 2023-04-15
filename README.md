@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on deep learning based control with application on autonomous vehicles.
+- 🌱 I’m currently learning mechatronics and robot fingers.
+
+Link to [personal website](https://leishi23.github.io/homepage)
+
 <!--
 **leishi23/leishi23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
