@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 - 🔭 I’m currently working on deep learning based control with application on autonomous vehicles.
 - 🌱 I’m currently learning mechatronics and robot fingers.
