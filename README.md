@@ -1,7 +1,7 @@
 
 ![Robotics Engineer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoT2sWPvFFe3T5hyT_dP44zDr9HJ6zBPco2yo99V67w&usqp=CAU&ec=48665701)
     
-## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Welcome to my world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ### Hello! I'm Lei Shi, a robotics engineer from China.
 
