@@ -26,7 +26,7 @@
 <br />
 
 - Theory:
-  - Optimal Control, Linear System, Nonlinear Control and Planning
+  - Optimal Control, Linear System, Nonlinear Control 
   - Robot Motion Planning
   - ROS
   - Machine Learning, Deep Learning
@@ -34,3 +34,4 @@
   - Robot Kinematics and Dynamics
 - Coding Language: Python, C++, MATLAB
 - Simulation: CARLA, Gazebo, RViz.
+- Application: UGV, manipulator
