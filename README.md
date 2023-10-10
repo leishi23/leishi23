@@ -1,4 +1,3 @@
-
 ![Robotics Engineer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoT2sWPvFFe3T5hyT_dP44zDr9HJ6zBPco2yo99V67w&usqp=CAU&ec=48665701)
     
 ## Welcome to my world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
@@ -29,9 +28,9 @@
   - Optimal Control, Linear System, Nonlinear Control 
   - Robot Motion Planning
   - ROS
-  - Machine Learning, Deep Learning
+  - Deep Learning
   - SLAM
-  - Robot Kinematics and Dynamics
-- Coding Language: Python, C++, MATLAB
+  - Robot Dynamics
+- Coding Language: Python, C++
 - Simulation: CARLA, Gazebo, RViz.
 - Application: UGV, manipulator
