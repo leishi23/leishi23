@@ -28,6 +28,7 @@
   - Deep Learning
   - SLAM
   - Robot Dynamics
+  - Vehicle Hardware
 - Coding Language: Python, C++
-- Simulation: CARLA, Gazebo, RViz.
-- Application: UGV, manipulator
+- Simulation: CARLA, Unity, SUMO.
+- Application: Autonomous vehicle, manipulator
