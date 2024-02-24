@@ -22,13 +22,12 @@
 <br />
 
 - Theory:
-  - Optimal Control, Linear System, Nonlinear Control 
+  - Robot Control 
   - Robot Motion Planning
-  - ROS
   - Deep Learning
-  - SLAM
+  - SLAM, ROS
   - Robot Dynamics
   - Vehicle Hardware
 - Coding Language: Python, C++
-- Simulation: CARLA, Unity, SUMO.
+- Simulation: CARLA, Unity, Mujoco
 - Application: Autonomous vehicle, manipulator
