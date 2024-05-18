@@ -4,7 +4,7 @@
 
 ### Hello! I'm Lei Shi, a robotics engineer from China.
 
-### Personal Website: https://leishi23.github.io/homepage
+### Personal Website: shilei23.com
 
 ### Email: leishi9823@gmail.com
 
