@@ -32,4 +32,4 @@
 - Simulation: CARLA, Unity, Mujoco
 - Application: Autonomous vehicle, manipulator
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leishi23&theme=transparent)
+
