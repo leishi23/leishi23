@@ -80,17 +80,6 @@ I'm a **Robotics Engineer** from China, passionate about creating intelligent sy
   </tr>
 </table>
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Applications & Projects
-
-<div align="center">
-  <img align="center" height="180" src="https://media.giphy.com/media/3ohs4oWkxLbqKpgZxK/giphy.gif" />
-  <img align="center" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk3dm9qeTd3b2xlanYxN2s1ZGQ0N3k1amw2Y2t5ZXJ2NnhvemY2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIRKJJmb1dQZ8rYSv9/giphy.gif" />
-</div>
-
-<div align="center">
-  <h3>Autonomous Vehicles & Robot Manipulation</h3>
-</div>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Activity
 
 <div align="center">
