@@ -1,35 +1,121 @@
-![Robotics Engineer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnoT2sWPvFFe3T5hyT_dP44zDr9HJ6zBPco2yo99V67w&usqp=CAU&ec=48665701)
-    
-## Welcome to my world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Welcome to My World of Robotics! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-### Hello! I'm Lei Shi, a robotics engineer from China.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Lei+Shi;Robotics+Engineer;AI+Enthusiast;Autonomous+Systems+Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+</div>
 
-### Personal Website: www.shilei23.com
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shilei23&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-### Email: leishi9823@gmail.com
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-<a href="https://www.linkedin.com/in/lei-shi-45264b188/">
-  <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+I'm a **Robotics Engineer** from China, passionate about creating intelligent systems that interact with the physical world. My research interests span robotics control, motion planning, and autonomous navigation.
 
-<br />
-<br />
+- 🔭 Currently exploring advanced techniques in robot manipulation and autonomous driving
+- 🌱 Always learning and staying up-to-date with the latest in AI and robotics
+- 💡 Excited about the intersection of deep learning and robotic systems
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  
-### 👨‍💻 Skills
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Connect with Me
 
-<br />
+<p align="center">
+  <a href="https://www.shilei23.com">
+    <img src="https://img.shields.io/badge/Website-shilei23.com-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:leishi9823@gmail.com">
+    <img src="https://img.shields.io/badge/Email-leishi9823@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lei-shi-45264b188/">
+    <img src="https://img.shields.io/badge/LinkedIn-Lei_Shi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=kfs-OxsAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google_Scholar-Lei_Shi-red?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+  </a>
+</p>
 
-- Theory:
-  - Robot Control 
-  - Robot Motion Planning
-  - Deep Learning
-  - SLAM, ROS
-  - Robot Dynamics
-  - Vehicle Hardware
-- Coding Language: Python, C++
-- Simulation: CARLA, Unity, Mujoco
-- Application: Autonomous vehicle, manipulator
+## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30"> Technical Skills
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Theory & Expertise</h3>
+      <div>
+        <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="40" align="left"/>
+        <strong>Robot Control & Motion Planning</strong>
+      </div>
+      <br/>
+      <div>
+        <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="40" align="left"/>
+        <strong>Deep Learning & Computer Vision</strong>
+      </div>
+      <br/>
+      <div>
+        <img src="https://media.giphy.com/media/VTnGYScI0Gz4z7Jy9l/giphy.gif" width="40" align="left"/>
+        <strong>SLAM & ROS</strong>
+      </div>
+      <br/>
+      <div>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXk3djd1OXgwdG1kYTB0YnJjM3hoZ3Z2ajJycjlkOGk0eGdjMGVwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QrQ9P9DEMNvLrp1rOR/giphy.gif" width="40" align="left"/>
+        <strong>Dynamics</strong>
+      </div>
+      <br/>
+      <div>
+        <img src="https://media.giphy.com/media/cnzP4cmBsiOrccg20V/giphy.gif" width="40" align="left"/>
+        <strong>Vehicle Hardware</strong>
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Tools & Technologies</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CARLA-00599C?style=for-the-badge&logo=carla&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Mujoco-FF6F00?style=for-the-badge&logo=mujoco&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Applications & Projects
+
+<div align="center">
+  <img align="center" height="180" src="https://media.giphy.com/media/3ohs4oWkxLbqKpgZxK/giphy.gif" />
+  <img align="center" height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmk3dm9qeTd3b2xlanYxN2s1ZGQ0N3k1amw2Y2t5ZXJ2NnhvemY2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIRKJJmb1dQZ8rYSv9/giphy.gif" />
+</div>
+
+<div align="center">
+  <h3>Autonomous Vehicles & Robot Manipulation</h3>
+</div>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leishi23&show_icons=true&theme=radical" alt="Lei Shi's GitHub stats" />
+</div>
+
+<br/>
+
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=leishi23&theme=react-dark" width="95%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<!-- GitHub Contribution Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leishi23/leishi23/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leishi23/leishi23/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leishi23/leishi23/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<!-- Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leishi23&theme=radical" alt="GitHub Streak" />
+</div>
