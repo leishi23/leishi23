@@ -90,7 +90,7 @@ I'm a **Robotics Engineer** from China, passionate about creating intelligent sy
 
 <!-- GitHub Activity Graph -->
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=leishi23&theme=react-dark" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leishi23&theme=react-dark" width="65%" alt="Activity Graph" />
 </div>
 
 <br/>
