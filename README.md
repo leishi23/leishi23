@@ -10,11 +10,11 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-I'm a **Robotics Engineer** from China, passionate about creating intelligent systems that interact with the physical world. My research interests span robotics control, motion planning, and autonomous navigation.
+I'm a **Robotics Engineer** from China, passionate about creating intelligent systems that interact with the physical world. My research interests span robotics, control, motion planning, and autonomous systems.
 
 - 🔭 Currently exploring advanced techniques in robot manipulation and autonomous driving
-- 🌱 Always learning and staying up-to-date with the latest in AI and robotics
-- 💡 Excited about the intersection of deep learning and robotic systems
+- 🌱 Always learning and staying up-to-date with the latest in Control and robotics
+- 💡 Excited about the intersection of control theory, AI and robotic systems
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Connect with Me
 
