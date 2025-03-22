@@ -88,21 +88,14 @@ I'm a **Robotics Engineer** from China, passionate about creating intelligent sy
 
 <br/>
 
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leishi23&theme=react-dark" width="65%" alt="Activity Graph" />
-</div>
-
-<br/>
-
 <!-- GitHub Contribution Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leishi23/leishi23/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leishi23/leishi23/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/leishi23/leishi23/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<!-- 使用 Platane/snk 的稳定版本 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 <!-- Streak Stats -->
 <div align="center">
