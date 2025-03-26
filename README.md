@@ -14,7 +14,7 @@ I'm a **Robotics Engineer** from China, passionate about creating intelligent sy
 
 - 🔭 Currently exploring advanced techniques in robot manipulation and autonomous driving
 - 🌱 Always learning and staying up-to-date with the latest in Control and robotics
-- 💡 Excited about the intersection of control theory, AI and robotic systems
+- 💡 Excited about the intersection of control theory, learning methods and robotic systems
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Connect with Me
 
