@@ -83,12 +83,3 @@ I'm a **Robotics Engineer** from China, passionate about creating intelligent sy
   <img src="https://github-readme-stats.vercel.app/api?username=leishi23&show_icons=true&theme=radical" alt="Lei Shi's GitHub stats" />
 </div>
 
-<br/>
-
-<!-- GitHub Contribution Snake Animation -->
-<!-- 使用 Platane/snk 的稳定版本 -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
