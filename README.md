@@ -77,9 +77,5 @@ I'm a **Robotics Engineer** from China, passionate about creating intelligent sy
   </tr>
 </table>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leishi23&show_icons=true&theme=radical" alt="Lei Shi's GitHub stats" />
-</div>
 
