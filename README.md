@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Lei+Shi;Robotics+Engineer;Control+Theory+Student;Autonomous+Systems+Developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
-
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
 I'm a **Robotics Engineer** from China, passionate about creating intelligent systems that interact with the physical world. My research interests span robotics, control, motion planning, and autonomous systems.
@@ -12,6 +11,7 @@ I'm a **Robotics Engineer** from China, passionate about creating intelligent sy
 - 🔭 Currently exploring advanced techniques in robot manipulation and autonomous driving
 - 🌱 Always learning and staying up-to-date with the latest in Control and robotics
 - 💡 Excited about the intersection of control theory, learning methods and robotic systems
+
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Connect with Me
 
@@ -78,4 +78,20 @@ I'm a **Robotics Engineer** from China, passionate about creating intelligent sy
 </table>
 
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Statistics
 
+<div align="center">
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leishi23&layout=compact&theme=radical&hide_border=true&langs_count=8)
+  
+</div>
+
+### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Repository Insights
+
+<div align="center">
+  
+  ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leishi23&theme=radical)
+  
+</div>
+
+</details>
