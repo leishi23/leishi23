@@ -25,9 +25,9 @@ I'm a **Robotics Engineer** from China, passionate about creating intelligent sy
   <a href="https://www.linkedin.com/in/lei-shi-45264b188/">
     <img src="https://img.shields.io/badge/LinkedIn-Lei_Shi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <!-- <a href="https://scholar.google.com/citations?user=kfs-OxsAAAAJ&hl=en">
+  <a href="https://scholar.google.com/citations?user=kfs-OxsAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google_Scholar-Lei_Shi-red?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-  </a> -->
+  </a>
 </p> -->
 
 ## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30"> Technical Skills
