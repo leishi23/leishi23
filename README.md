@@ -16,7 +16,7 @@ I'm a **Robotics Engineer** from China, passionate about creating intelligent sy
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Connect with Me
 
 <p align="center">
-  <a href="https://www.shilei23.com">
+  <a href="https://leishi23.github.io/">
     <img src="https://img.shields.io/badge/Website-shilei23.com-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="mailto:leishi9823@gmail.com">
